@@ -1,4 +1,4 @@
-# tatum-java
+# Community use only: tatum-java
 
 To use Tatum library in your project, first you need to add a repository section in your Maven's *pom.xml* file
 ```
